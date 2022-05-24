@@ -108,3 +108,8 @@ C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\o
 C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net5.0\my-api.pdb
 C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net5.0\my-api.genruntimeconfig.cache
 C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net5.0\ref\my-api.dll
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net5.0\my-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll

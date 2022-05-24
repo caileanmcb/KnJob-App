@@ -8,5 +8,12 @@ namespace my_api
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
         public DbSet<Job> Jobs { get; set; }
+
+        public DbSet<Exchanges> Exchanges { get; set; }
+
+        //public DbSet<Surcharge> Surcharges { get; set; }
+
+        public DbSet<Values> Values { get; set;}
+
     }
 }

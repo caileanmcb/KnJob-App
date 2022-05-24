@@ -1,10 +1,15 @@
-import react, { useState } from 'react';
+import react, { useState, useEffect } from 'react';
 import logo from './logo.svg';
 import axios from 'axios';
 import './App.css';
 
 function App() {
   const [job, setJob] = useState({});
+  const [exchanges, setExchanges] = useState({})
+
+  useEffect(() => {
+    getExchanges();
+  }, [])
 
   // Create front-end form to deliver data to API
   const submitHandler = e => {
@@ -20,6 +25,12 @@ function App() {
       axios.post('https://localhost:44385/api/job', {...job}).then(response => {
         console.log(response)
       });
+  }
+
+  const getExchanges = () => {
+    axios.get('https://localhost:44385/api/job').then(response => {
+      console.log(response)
+    });
   }
 
 
