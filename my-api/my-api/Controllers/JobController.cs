@@ -9,7 +9,7 @@ namespace my_api.Controllers
     [ApiController]
     public class JobController : ControllerBase
     {
-        private DataContext _dbContext;
+        public DataContext _dbContext;
 
         public JobController(DataContext dbContext)
         {
@@ -18,8 +18,9 @@ namespace my_api.Controllers
 
         public async Task<ActionResult> Post(Job request)
         {
-            _dbContext.
-
+            // Add Job to Jobs table
+            _dbContext.Jobs.Add(request);
+            _dbContext.SaveChanges();
             return Ok(request);
         }
     }

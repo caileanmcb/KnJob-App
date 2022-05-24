@@ -1,0 +1,6 @@
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net6.0\my-api.csproj.AssemblyReference.cache
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net6.0\my-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net6.0\my-api.AssemblyInfoInputs.cache
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net6.0\my-api.AssemblyInfo.cs
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net6.0\my-api.csproj.CoreCompileInputs.cache
+C:\Programming\kn job project\Cailean-s-project-master\KnJob-App\my-api\my-api\obj\Debug\net6.0\my-api.MvcApplicationPartsAssemblyInfo.cache

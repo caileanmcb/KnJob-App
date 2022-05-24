@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\my-api\\my-api\\my-api\\my-api.csproj": {}
+    "C:\\Programming\\kn job project\\Cailean-s-project-master\\KnJob-App\\my-api\\my-api\\my-api.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\my-api\\my-api\\my-api\\my-api.csproj": {
+    "C:\\Programming\\kn job project\\Cailean-s-project-master\\KnJob-App\\my-api\\my-api\\my-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\my-api\\my-api\\my-api\\my-api.csproj",
+        "projectUniqueName": "C:\\Programming\\kn job project\\Cailean-s-project-master\\KnJob-App\\my-api\\my-api\\my-api.csproj",
         "projectName": "my-api",
-        "projectPath": "C:\\Projects\\my-api\\my-api\\my-api\\my-api.csproj",
-        "packagesPath": "C:\\Users\\ollyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\my-api\\my-api\\my-api\\obj\\",
+        "projectPath": "C:\\Programming\\kn job project\\Cailean-s-project-master\\KnJob-App\\my-api\\my-api\\my-api.csproj",
+        "packagesPath": "C:\\Users\\caile\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\kn job project\\Cailean-s-project-master\\KnJob-App\\my-api\\my-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ollyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

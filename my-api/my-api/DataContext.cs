@@ -7,6 +7,6 @@ namespace my_api
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-        DbSet<Job> Jobs { get; set; }
+        public DbSet<Job> Jobs { get; set; }
     }
 }
