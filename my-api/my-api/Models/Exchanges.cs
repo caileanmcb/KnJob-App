@@ -5,8 +5,9 @@ namespace my_api.Models
     public class Exchanges
     {
         [Key]
-        public string ExchangeID { get; set; }
-
+        public int ExchangeID { get; set; }
+        
+        [Required]
         public string Exchange { get; set; }
     }
 }

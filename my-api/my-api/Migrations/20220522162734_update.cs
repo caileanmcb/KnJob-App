@@ -2,7 +2,7 @@
 
 namespace my_api.Migrations
 {
-    public partial class update : Migration
+    public partial class Update : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

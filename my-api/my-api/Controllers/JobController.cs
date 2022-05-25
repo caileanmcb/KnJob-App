@@ -30,7 +30,7 @@ namespace my_api.Controllers
         [HttpGet]
         public async Task<ActionResult> Get()
         {
-            List<Exchanges> exchanges = _dbContext.Exchanges.ToList();
+            List<Job> exchanges = _dbContext.Jobs.ToList();
 
             return Ok(exchanges);
         }
